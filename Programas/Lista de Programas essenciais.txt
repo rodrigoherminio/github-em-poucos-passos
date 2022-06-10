@@ -1,0 +1,7 @@
+Git Bash
+Notepad++
+XAMPP
+Tympora
+Visual Studio Code
+
+
